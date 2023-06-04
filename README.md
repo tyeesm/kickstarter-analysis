@@ -12,8 +12,9 @@ It felt as though there were some steps missing but I problem solved by looking 
 ![Image](Theater_Outcomes_vs_Launch.png)
 ## Results
 ### Time of launch affects outcomes
-A conclusion that can be drawn from the graph below is that there is a much higher sucess rate for crowdfunding campaigns that start between the months of April and August. Another, is that campaigns that begin during the winter and holiday season months November to Janauary have lower chances of suceeding. 
+A conclusion that can be drawn from the graph below is that there is a much higher sucess rate for crowdfunding campaigns that start between the months of April and August. Another, is that campaigns that begin during the winter and holiday season November to Janauary have lower chances of suceeding. 
 ![Image](Theater_Outcomes_vs_Launch.png)
 ### Goal amount negatively affects outcomes
-![image}(Outcomes_vs_Goals.png)
+Based upon the graph below the higher the amount for crowdfunding projects the lower the likelyhood of those campaigns reaching their crowdfunding goals. 
+![image](Outcomes_vs_Goals.png)
 
